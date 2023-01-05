@@ -1,0 +1,15 @@
+C:\Desarrollo\Web-Api\Hola_Mundo\Hola_Mundo\bin\Debug\net6.0\Hola_Mundo.exe
+C:\Desarrollo\Web-Api\Hola_Mundo\Hola_Mundo\bin\Debug\net6.0\Hola_Mundo.deps.json
+C:\Desarrollo\Web-Api\Hola_Mundo\Hola_Mundo\bin\Debug\net6.0\Hola_Mundo.runtimeconfig.json
+C:\Desarrollo\Web-Api\Hola_Mundo\Hola_Mundo\bin\Debug\net6.0\Hola_Mundo.dll
+C:\Desarrollo\Web-Api\Hola_Mundo\Hola_Mundo\bin\Debug\net6.0\Hola_Mundo.pdb
+C:\Desarrollo\Web-Api\Hola_Mundo\Hola_Mundo\obj\Debug\net6.0\Hola_Mundo.csproj.AssemblyReference.cache
+C:\Desarrollo\Web-Api\Hola_Mundo\Hola_Mundo\obj\Debug\net6.0\Hola_Mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\Web-Api\Hola_Mundo\Hola_Mundo\obj\Debug\net6.0\Hola_Mundo.AssemblyInfoInputs.cache
+C:\Desarrollo\Web-Api\Hola_Mundo\Hola_Mundo\obj\Debug\net6.0\Hola_Mundo.AssemblyInfo.cs
+C:\Desarrollo\Web-Api\Hola_Mundo\Hola_Mundo\obj\Debug\net6.0\Hola_Mundo.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Web-Api\Hola_Mundo\Hola_Mundo\obj\Debug\net6.0\Hola_Mundo.dll
+C:\Desarrollo\Web-Api\Hola_Mundo\Hola_Mundo\obj\Debug\net6.0\refint\Hola_Mundo.dll
+C:\Desarrollo\Web-Api\Hola_Mundo\Hola_Mundo\obj\Debug\net6.0\Hola_Mundo.pdb
+C:\Desarrollo\Web-Api\Hola_Mundo\Hola_Mundo\obj\Debug\net6.0\Hola_Mundo.genruntimeconfig.cache
+C:\Desarrollo\Web-Api\Hola_Mundo\Hola_Mundo\obj\Debug\net6.0\ref\Hola_Mundo.dll
